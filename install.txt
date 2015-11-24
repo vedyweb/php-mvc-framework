@@ -1,0 +1,9 @@
+1. Unzip the mvc4php.zip File to xampp/htdocs
+
+2. Import the mvc4php.sql File  in MySQL Database
+
+3. Configuration the Defines DB_HOST, DB_NAME, DB_USER, DB_PASS From application/config/settings.php
+
+3. Enter URL localhost/yourfilename
+
+4. Finished!
